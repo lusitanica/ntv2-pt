@@ -5,6 +5,8 @@ The NTv2 (National Transformation version 2) is a standard binary grid shift (.G
 
 Downloaded from:
     http://www.dgterritorio.pt/cartografia_e_geodesia/geodesia/transformacao_de_coordenadas/grelhas_em_ntv2/
+    
+where the grids were Published under Creative Commons - Atribuição 4.0 Internacional. 
 
 Portugal Continental - Sistemas Globais
 
